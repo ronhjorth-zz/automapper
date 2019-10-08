@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\dev\\automapper\\ConsoleAutoMapper\\ConsoleAutoMapper\\ConsoleAutoMapper.csproj": {}
+  },
+  "projects": {
+    "H:\\dev\\automapper\\ConsoleAutoMapper\\ConsoleAutoMapper\\ConsoleAutoMapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\dev\\automapper\\ConsoleAutoMapper\\ConsoleAutoMapper\\ConsoleAutoMapper.csproj",
+        "projectName": "ConsoleAutoMapper",
+        "projectPath": "H:\\dev\\automapper\\ConsoleAutoMapper\\ConsoleAutoMapper\\ConsoleAutoMapper.csproj",
+        "packagesPath": "C:\\Users\\RONHJ\\.nuget\\packages\\",
+        "outputPath": "H:\\dev\\automapper\\ConsoleAutoMapper\\ConsoleAutoMapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RONHJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://freemanco.pkgs.visualstudio.com/_packaging/Freeman.P2C.Payments/nuget/v3/index.json": {},
+          "https://freemanco.pkgs.visualstudio.com/_packaging/Freeman.Sayfir.Packages/nuget/v3/index.json": {},
+          "https://freemanco.pkgs.visualstudio.com/_packaging/FreemanEnterprise/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

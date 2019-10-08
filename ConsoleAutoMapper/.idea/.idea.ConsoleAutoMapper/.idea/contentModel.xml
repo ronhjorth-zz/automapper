@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\RONHJ\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\RONHJ\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\RONHJ\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ConsoleAutoMapper.132881611.00" t="ExcludeRecursive" />
+    <e p="H:\dev\automapper\ConsoleAutoMapper" t="IncludeFlat">
+      <e p="ConsoleAutoMapper" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleAutoMapper.csproj" t="IncludeRecursive" />
+        <e p="domain" t="Include">
+          <e p="product.cs" t="Include" />
+          <e p="user.cs" t="Include" />
+        </e>
+        <e p="DTO" t="Include">
+          <e p="product2DTO.cs" t="Include" />
+          <e p="productDTO.cs" t="Include" />
+          <e p="userDTO.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ConsoleAutoMapper.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ConsoleAutoMapper.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\bin\Debug\netcoreapp2.2\ConsoleAutoMapper.deps.json
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\bin\Debug\netcoreapp2.2\ConsoleAutoMapper.runtimeconfig.json
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\bin\Debug\netcoreapp2.2\ConsoleAutoMapper.runtimeconfig.dev.json
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\bin\Debug\netcoreapp2.2\ConsoleAutoMapper.dll
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\bin\Debug\netcoreapp2.2\ConsoleAutoMapper.pdb
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\obj\Debug\netcoreapp2.2\ConsoleAutoMapper.csprojAssemblyReference.cache
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\obj\Debug\netcoreapp2.2\ConsoleAutoMapper.csproj.CoreCompileInputs.cache
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\obj\Debug\netcoreapp2.2\ConsoleAutoMapper.AssemblyInfoInputs.cache
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\obj\Debug\netcoreapp2.2\ConsoleAutoMapper.AssemblyInfo.cs
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\obj\Debug\netcoreapp2.2\ConsoleAutoMapper.dll
+H:\dev\automapper\ConsoleAutoMapper\ConsoleAutoMapper\obj\Debug\netcoreapp2.2\ConsoleAutoMapper.pdb
