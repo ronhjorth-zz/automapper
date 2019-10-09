@@ -4,7 +4,7 @@ using ConsoleAutoMapper.DTO;
 
 namespace ConsoleAutoMapper.domain
 {
-    [AutoMap(typeof(product2DTO))]
+    [AutoMap(typeof(productDTO))]
     public class product
     {
         [SourceMember("productId")]
@@ -12,6 +12,12 @@ namespace ConsoleAutoMapper.domain
         {
             get; set;
         }
+        
+        public int quanity
+        {
+            get; set;
+        }
+
         [SourceMember("productName")]
         public string Name
         {
@@ -23,11 +29,16 @@ namespace ConsoleAutoMapper.domain
             get; set;
         }
 
-        public product(int id, string name, string sku)
+        public product()
+        {
+        }
+
+        public product(int id, string name, string sku, int quantity)
         {
             this.Id = id;
             this.Name = name;
             this.SKU = sku;
+            this.quanity = quantity;
         }
     }
 }

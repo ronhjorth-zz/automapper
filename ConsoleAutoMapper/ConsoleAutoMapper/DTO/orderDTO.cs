@@ -1,21 +1,22 @@
+using System.Collections.Generic;
+
 namespace ConsoleAutoMapper.DTO
 {
-    public class productDTO
+    public class orderDTO
     {
-        public int productId
+        public string orderId
         {
             get; set;
         }
-        public string productName
+        public string userId
         {
             get; set;
         }
-        public string SKU
+        public string createDate
         {
             get; set;
         }
-        
-        public int quantity 
+        public List<productDTO> orderedProducts
         {
             get; set;
         }
